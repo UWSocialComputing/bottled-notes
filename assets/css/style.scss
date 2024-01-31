@@ -1,7 +1,4 @@
-
-@import "minima/base",
-"minima/layout",
-"minima/syntax-highlighting";
+@import "{{ site.theme }}";
 
 .table-wrapper {
     overflow-x: scroll;
