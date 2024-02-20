@@ -1,0 +1,11 @@
+# Findings from the wizard of oz testing
+
+With this wizard of oz session, I wanted to figure out if people would be willing to send a random stranger a message based on their responses to a question. While I wasn't able to test this with many people, it seems like people were generally willing to at least send one message back.
+
+For the purposes of this session, I chose a question that is extremely lighthearted because I thought it might be easier for people to chat over something lighthearted rather than something serious. The main feedback I got was that it's difficult to maintain a conversation when a question is too lighthearted. One idea brought up was to create a way for users to pick how serious they want the question to be. This would work in tandem with the option to keep a user's answer private if they want to answer a serious question but don't want the answer to be seen. Also, a word minimum would be helpful so that there is more room for an interesting response to the question rather than a one-word response. 
+
+I also got feedback to think more about the motivations people might have in continuing a conversation after matching with them. My original idea was to create a set time in the real world (e.g. 9 A.M.) in which someone receives a question, and also a set time (e.g. 6 P.M.) in which someone gets matched with a stranger. Feedback on this was that this would be putting too much on the user to go back to the app, and not giving users enough time to answer the prompt in some cases. 
+
+My revised idea is to just make users aware of the potential long wait times for receiving a message, and to play on the environment of a message in a bottle more. This might also help narrow down the audience better into people who are tired of constant, instant online communication. Receiving a message in a bottle should be a fun surprise that makes someone's day, so having a set time to receive that message would be counterintuitive. 
+
+As for feedback on the UI, I received feedback that maybe playing into the environment would be interesting. For example, if someone receives a message, they would be able to see that on the shores of their island. If I have time, I plan to implement that feature. 
