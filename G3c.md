@@ -1,4 +1,4 @@
-# Findings from the wizard of oz testing
+# G3c: Findings from the Wizard of Oz Testing
 
 With this wizard of oz session, I wanted to figure out if people would be willing to send a random stranger a message based on their responses to a question. While I wasn't able to test this with many people, it seems like people were generally willing to at least send one message back.
 
