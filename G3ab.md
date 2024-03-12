@@ -1,4 +1,4 @@
-# G3ab: Designing the Low Fidelity Prototype
+# G3ab: Low Fidelity Prototype
 The current main idea behind this project is that the most "authentic" connections might come from when you're anonymous. A lot of social media has a focus on who a person is, and not what they say. I want to create a platform where the focus is on what people say rather than who they are. 
 
 ## The components
