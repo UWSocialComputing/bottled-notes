@@ -12,7 +12,8 @@ Once you log in, you'll be prompted with a question of the day. Write an answer 
 
 This project was created with mostly ReactJS and HTML/CSS. It uses Firebase Hosting, Authentication, and Firestore. The random matching functions are created with Google Cloud functions. The 3D scene was created with Spline. [View the code for this project here.](https://github.com/UWSocialComputing/bottled-notes-code)
 
-![alt_text](./assets/img/me0.jpg "image_tooltip")
+<img src="./assets/img/me0.jpg" alt="alt_text" title="image_tooltip" width="200"/>
+
 This project was created by [Ashley Mochizuki](https://www.linkedin.com/in/ashleymochizuki/) for CSE481P at the University of Washington.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhTTc2cVCngpvk736yZaNzM%2Fbottled-notes%3Ftype%3Ddesign%26node-id%3D0%3A1%26mode%3Ddesign%26t%3D6pL2nGb3JnCdWFWf-1" allowfullscreen></iframe>
