@@ -6,7 +6,7 @@
 
 One of the reasons why people find it hard to create authentic relationships online is that you can never really be sure that someone's telling the truth about who they are on the internet. 
 
-[Bottled notes]((https://bottled-notes.web.app/)) has been designed to be based around anonymity. You don't have to trust that someone's telling the truth about who they are because interactions on the app are based around genuine conversations. There are no usernames, profile pictures, or avatars. The main connection is through people's words rather than their profiles. 
+[Bottled notes](https://bottled-notes.web.app/) has been designed to be based around anonymity. You don't have to trust that someone's telling the truth about who they are because interactions on the app are based around genuine conversations. There are no usernames, profile pictures, or avatars. The main connection is through people's words rather than their profiles. 
 
 Once you log in, you'll be prompted with a question of the day. Write an answer to the question, and send your answer in a bottle out into the digital ocean. Check back in a few hours, then view your notes. Your bottle will have reached a random, anonymous stranger who also answered the question.* You can then chat with them if you want to!
 
